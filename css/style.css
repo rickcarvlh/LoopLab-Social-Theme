@@ -42,3 +42,10 @@ body {
     border-radius: 50%;
 }
 
+#explore-section .fas,
+#share-section .fas {
+    background: #333333;
+    color: #ffffff;
+    padding: 3px;
+    border-radius: 5px;
+}
