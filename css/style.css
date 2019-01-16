@@ -35,7 +35,8 @@ body {
 
 }
 
-#home-section .fas {
+#home-section .fas,
+#create-section .fas {
     color: #008ed6;
     background-color: #ffffff;
     padding: 5px;
@@ -46,6 +47,6 @@ body {
 #share-section .fas {
     background: #333333;
     color: #ffffff;
-    padding: 3px;
+    padding: 5px;
     border-radius: 5px;
 }
